@@ -10,3 +10,5 @@ Then, invoke the binary passing as argument the unit of temperature we want to c
 For example:
 
 `./temp C` to convert from Celsius to Fahrenheit or `./temp F` to convert from Fahrenheit to Celsius.
+
+comment by tobibot: Hi!
